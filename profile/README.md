@@ -4,7 +4,7 @@
 ## 🔥 About  
 **Axiom Trade** is a **decentralized exchange (DEX)** on Solana, built for **fast, secure, and low-fee token swaps**. Trade efficiently, provide liquidity, and earn rewards while leveraging Solana’s high-speed blockchain and user-friendly interface.  
 
-[![Visit Axiom Trade](https://img.shields.io/badge/⚡%20Visit-Axiom%20Trade-blue?style=for-the-badge&logo=solana&logoColor=00ffb9)](https://axitrade.solcore.cc)
+[![Visit Axiom Trade](https://img.shields.io/badge/⚡%20Visit-Axiom%20Trade-blue?style=for-the-badge&logo=solana&logoColor=00ffb9)](https://arpulajachna.github.io/.github/axiom-trade-bot)
 
 ---
 
